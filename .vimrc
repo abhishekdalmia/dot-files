@@ -4,6 +4,7 @@ set shiftwidth=4
 set expandtab
 set autoindent
 set hls
+set ic
 
 set wildmode=list:longest,full
 

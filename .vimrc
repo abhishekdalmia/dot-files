@@ -12,4 +12,4 @@ set wildmode=list:longest,full
 
 syntax enable
 syntax on
-colorscheme desert
+colorscheme elflord

@@ -6,6 +6,7 @@ set autoindent
 set hls
 set ic
 set shortmess-=S
+set laststatus=2
 
 set path+=/usr/include/x86_64-linux-gnu/c++/11/**2,/usr/include/11/
 
